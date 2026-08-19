@@ -13,8 +13,8 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+| Home | My name is Johan Sebastian Villanueva Barbosa and I am a Systems Engineering student; my personal email is sebastianvillanuevaj2@gmail.com  |
+| About | I was born and raised surrounded by technology, and my journey as a Systems Engineer began with a curiosity to understand how things work under the hood; today, that same curiosity drives me to design and develop software systems that not only solve technical problems but also create real impact. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
