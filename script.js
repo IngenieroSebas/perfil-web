@@ -101,7 +101,8 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am a Systems Engineering student with an interest in web development and technology. I enjoy learning about programming, web design, and technical support, and I am constantly seeking to improve my knowledge and skills.
+I am currently strengthening my capabilities in software development and technological tools, aiming to gain experience and participate in projects that foster my professional growth",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "[City], Colombia",
