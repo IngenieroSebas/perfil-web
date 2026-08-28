@@ -27,7 +27,8 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "Soy estudiante de Ingeniería de Sistemas, interesado en el desarrollo web y la tecnología. Me gusta aprender sobre programación, diseño de páginas web y soporte técnico, buscando mejorar constantemente mis conocimientos y habilidades.
+Actualmente estoy fortaleciendo mis capacidades en desarrollo de software y herramientas tecnológicas, con el objetivo de adquirir experiencia y participar en proyectos que me permitan crecer profesionalmente.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "[Ciudad], Colombia",
