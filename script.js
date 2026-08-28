@@ -152,7 +152,7 @@ const EN = {
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Sebastian Villanueva · Espinal-Tolima, Colombia"
 };
 
 
