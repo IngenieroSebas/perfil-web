@@ -77,7 +77,7 @@ Actualmente estoy fortaleciendo mis capacidades en desarrollo de software y herr
   "contact.title":         "Contacto",
   "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.linkedinValue": "Perfil Profesional",
 
   "footer.note": "Sebastian Villanueva · Espinal-Tolima, Colombia"
 };
@@ -152,7 +152,7 @@ I am currently strengthening my capabilities in software development and technol
   "contact.title":         "Contact",
   "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.linkedinValue": "Professional Profile",
 
   "footer.note": "Sebastian Villanueva · Espinal-Tolima, Colombia"
 };
